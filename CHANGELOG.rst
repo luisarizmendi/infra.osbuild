@@ -21,7 +21,6 @@ Minor Changes
 - Include blueprint import file option
 - Add ignition to simplified installer blueprint
 
-
 v2.3.0
 ======
 
